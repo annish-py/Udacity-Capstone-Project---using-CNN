@@ -108,4 +108,5 @@ Accuracy has been achieved up to **81%** with **30 epochs**
 
 You can find the link to the medium blog post below,
 
-[Medium Blog Post](https://annishprashanth.medium.com/dog-breed-classifier-using-cnn-udacitys-capstone-project-32b6f3a1bfaf)
+## Medium Blog Post 
+[https://annishprashanth.medium.com/dog-breed-classifier-using-cnn-udacitys-capstone-project-32b6f3a1bfaf](https://annishprashanth.medium.com/dog-breed-classifier-using-cnn-udacitys-capstone-project-32b6f3a1bfaf)
